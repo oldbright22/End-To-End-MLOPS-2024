@@ -37,3 +37,7 @@ Server ready.
 {"type":"measure","name":"lsp.did_change_watched_files","count":2,"duration":0.021},
 {"type":"mark","name":"lsp.did_change_watched_files","count":3,"args":{"changes":[{"uri":"file:///c%3A/Users/btina/LLM/AI-End-To-End-MLOps/End-To-End-MLOPS-2024/.git/index.lock","type":1},{"uri":"file:///c%3A/Users/btina/LLM/AI-End-To-End-MLOps/End-To-End-MLOPS-2024/.git/index.lock","type":3}]}},
 {"type":"measure","name":"lsp.did_change_watched_files","count":3,"duration":0.028},
+{"type":"mark","name":"lsp.did_change_watched_files","count":4,"args":{"changes":[{"uri":"file:///c%3A/Users/btina/LLM/AI-End-To-End-MLOps/End-To-End-MLOPS-2024/.git/index.lock","type":1},{"uri":"file:///c%3A/Users/btina/LLM/AI-End-To-End-MLOps/End-To-End-MLOPS-2024/.git/index.lock","type":3}]}},
+{"type":"measure","name":"lsp.did_change_watched_files","count":4,"duration":0.008},
+{"type":"mark","name":"lsp.did_change_watched_files","count":5,"args":{"changes":[{"uri":"file:///c%3A/Users/btina/LLM/AI-End-To-End-MLOps/End-To-End-MLOPS-2024/.git/HEAD.lock","type":1},{"uri":"file:///c%3A/Users/btina/LLM/AI-End-To-End-MLOps/End-To-End-MLOPS-2024/.git/HEAD.lock","type":3}]}},
+{"type":"measure","name":"lsp.did_change_watched_files","count":5,"duration":0.197},
