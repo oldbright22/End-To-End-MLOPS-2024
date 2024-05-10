@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/btina/LLM/AI-End-To-End-MLOps/End-To-End-MLOPS-2024/mlruns/0/acfc5d58f2d5407d973d08f730b7b478/artifacts
+end_time: 1715296206180
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: acfc5d58f2d5407d973d08f730b7b478
+run_name: wise-wren-894
+run_uuid: acfc5d58f2d5407d973d08f730b7b478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715296202017
+status: 3
+tags: []
+user_id: btina

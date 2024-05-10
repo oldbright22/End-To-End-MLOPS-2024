@@ -3,22 +3,22 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
-  local_data_file: artifacts/data_ingestion/data.zip
+  source_URL: https://github.com/oldbright22/End-To-End-MLOPS-2024/blob/main/src/e2eProject/data/winedata.zip
+  local_data_file: artifacts/data_ingestion/winedata.zip
   unzip_dir: artifacts/data_ingestion
 
 
 
 data_validation:
   root_dir: artifacts/data_validation
-  unzip_data_dir: artifacts/data_ingestion/winequality-red.csv
+  unzip_data_dir: artifacts/data_ingestion/wine.csv
   STATUS_FILE: artifacts/data_validation/status.txt
 
 
 
 data_transformation:
   root_dir: artifacts/data_transformation
-  data_path: artifacts/data_ingestion/winequality-red.csv
+  data_path: artifacts/data_ingestion/wine.csv
 
 
 
